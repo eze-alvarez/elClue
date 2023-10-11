@@ -1,0 +1,131 @@
+{
+    "Personajes" : [
+        {
+            "id"        :   1,
+            "nombre"    :   "Messi",
+            "completed":    false
+        },
+        {
+            "id"        :   2,
+            "nombre"    :   "Will Smith",
+            "completed":    false
+        },
+        {
+            "id"        :   3,
+            "nombre"    :   "Mirtha Legrand",
+            "completed":    false
+        },
+        {
+            "id"        :   4,
+            "nombre"    :   "L-Gante",
+            "completed":    false
+        },
+        {
+            "id"        :   5,
+            "nombre"    :   "Wanda Nara",
+            "completed":    false
+        },
+        {
+            "id"        :   6,
+            "nombre"    :   "La Mona",
+            "completed":    false
+        },
+        {
+            "id"        :   7,
+            "nombre"    :   "Luisito Comunica",
+            "completed":    false
+        },
+        {
+            "id"        :   8,
+            "nombre"    :   "Goku",
+            "completed":    false
+        }
+    ],
+
+    "Lugares": [
+        {
+            "id"        :   9,
+            "nombre"    :   "Terminal",
+            "completed":    false
+        },
+        {
+            "id"        :   10,
+            "nombre"    :   "Buen Pastor",
+            "completed":    false
+        },
+        {
+            "id"        :   11,
+            "nombre"    :   "Bar Beer",
+            "completed":    false
+        },
+        {
+            "id"        :   12,
+            "nombre"    :   "Kempes",
+            "completed":    false
+        },
+        {
+            "id"        :   13,
+            "nombre"    :   "Express",
+            "completed":    false
+        },
+        {
+            "id"        :   14,
+            "nombre"    :   "La Cañada",
+            "completed":    false
+        },
+        {
+            "id"        :   15,
+            "nombre"    :   "Las Pulgas",
+            "completed":    false
+        },
+        {
+            "id"        :   16,
+            "nombre"    :   "Plaza España",
+            "completed":    false
+        }
+    ],
+
+    "Objetos": [
+        {
+            "id"        :   17,
+            "nombre"    :   "Totte Bag",
+            "completed":    false
+        },
+        {
+            "id"        :   18,
+            "nombre"    :   "Manopla",
+            "completed":    false
+        },
+        {
+            "id"        :   19,
+            "nombre"    :   "Veneno",
+            "completed":    false
+        },
+        {
+            "id"        :   20,
+            "nombre"    :   "Cuchara",
+            "completed":    false
+        },
+        {
+            "id"        :   21,
+            "nombre"    :   "Soga",
+            "completed":    false
+        },
+        {
+            "id"        :   22,
+            "nombre"    :   "Cuchillo",
+            "completed":    false
+        },
+        {
+            "id"        :   23,
+            "nombre"    :   "Media Sucia",
+            "completed":    false
+        },
+        {
+            "id"        :   24,
+            "nombre"    :   "Sacacorcho",
+            "completed":    false
+        }
+    ]
+}
+

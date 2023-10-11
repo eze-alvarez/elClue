@@ -1,0 +1,61 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  color: rgba(255, 255, 255, 0.87);
+  background-image: linear-gradient(120deg, #39d07b 0%, #4181fb 100%);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html{
+  font-size: 62.5%;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  min-width: 32rem;
+  min-height: 100vh;
+}
+
+
+@media only screen and (min-width: 576px) and (orientation: landscape) {
+  html{
+      font-size: 40%;
+  }
+}
+/* // Medium devices (tablets, 768px and up) */
+@media only screen and (min-width: 720px) and (orientation: portrait) {
+  html{
+      font-size: 90%;
+  }
+ 
+}
+
+@media only screen and (min-width: 1080px) and (orientation: landscape){
+    html{
+        font-size: 70%;
+    }
+}
+/* // X-Large devices (large desktops, 1200px and up) */
+/* @media only screen and (min-width: 1200px) and (orientation: landscape){
+} */
+/* // XX-Large devices (larger desktops, 1400px and up) */
+ @media only screen and (min-width: 1400px) and (orientation: landscape){
+    html{
+        font-size: 80%;
+    }
+}
+@media only screen and (min-width: 1900px) and (orientation: landscape){
+  html{
+      font-size: 90%;
+  }
+}
